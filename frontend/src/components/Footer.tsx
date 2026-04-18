@@ -51,7 +51,7 @@ const Footer: React.FC = () => {
                 <Leaf size={20} className="text-white" />
               </div>
               <span className="text-xl font-black tracking-tight text-white">
-                OenKayee<span className="text-emerald-500">AI</span>
+                Fahmi<span className="text-emerald-500"> Nabeel</span>
               </span>
             </div>
             <p className="text-emerald-100/50 leading-relaxed text-sm">
@@ -93,15 +93,15 @@ const Footer: React.FC = () => {
             <ul className="space-y-4">
               <li className="flex items-start gap-3 text-sm text-emerald-100/50">
                 <MapPin size={18} className="text-emerald-500 shrink-0" />
-                <span>Lhokseumawe</span>
+                <span>Banten</span>
               </li>
               <li className="flex items-center gap-3 text-sm text-emerald-100/50">
                 <Phone size={18} className="text-emerald-500 shrink-0" />
-                <span>+62 812 3456 7890</span>
+                <span>@Rhapsozy</span>
               </li>
               <li className="flex items-center gap-3 text-sm text-emerald-100/50">
                 <Mail size={18} className="text-emerald-500 shrink-0" />
-                <span>hello@oenkayee.ai</span>
+                <span>Fahmi.Nabeel21@gmail.com</span>
               </li>
             </ul>
           </div>
